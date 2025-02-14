@@ -1,6 +1,6 @@
-### Фронтенд, геймдев разработчик💻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Фронтенд,+геймдев+разработчик💻)](https://git.io/typing-svg)
 ### Мой стек📃
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
