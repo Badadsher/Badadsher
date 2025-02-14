@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Фронтенд,+геймдев+разработчик💻)](https://git.io/typing-svg)
-### Мой стек📃
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bdasherer)](https://github.com/anuraghazra/github-readme-stats)
+### Мой стек📃
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=C-sharp&style=flat)
