@@ -7,7 +7,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Redux ToolKit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=C-sharp&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
